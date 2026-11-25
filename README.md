@@ -21,3 +21,7 @@ How the 2022 inflation surge affected democratic participation, with the Italian
 ### [Interactive Maps: The 2024 European Election in Italy](https://federicoespositoir.github.io/interactive-maps-italy/)
 
 Interactive maps of turnout and the populist radical right vote in the 2024 European election, for Italian provinces and for the municipalities of the Metropolitan City of Rome. Built in R with leaflet.
+
+### [Podcast: Growing Up During the ISIS Era](https://federicoespositoir.github.io/podcast-growing-up-isis-era/)
+
+A 26-minute episode on how my generation in Europe first met the Middle East through fear, and what changed once I studied its history and international relations. Written, recorded and edited for International Relations of the Middle East.
